@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "this is a good stream",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "This is some other stream",
+      "id": 2
+    },
+    {
+      "title": "New stream with user id",
+      "description": "This is to demonstrate user id",
+      "userId": "110243695581051566041",
+      "id": 3
+    },
+    {
+      "title": "testing home reroute 6",
+      "description": "testing home reroute 6",
+      "userId": "110243695581051566041",
+      "id": 4
+    }
+  ]
+}
